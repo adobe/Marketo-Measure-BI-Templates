@@ -11,9 +11,9 @@ For more information on how to open these files and connect to your data warehou
 ### Release Notes
 
 Release notes for each version are contained in the accompanying release notes files.
-- [Power BI Template Release Notes](https://git.corp.adobe.com/sizer/BI-Templates/blob/main/Power%20BI%20Template%20Release%20Notes.md)
-- [Tableau Template Release Notes](https://git.corp.adobe.com/sizer/BI-Templates/blob/main/Tableau%20Template%20Release%20Notes.md)
+- [Power BI Template Release Notes](https://github.com/adobe/Marketo-Measure-BI-Templates/blob/main/Power%20BI%20Template%20Release%20Notes.md)
+- [Tableau Template Release Notes](https://github.com/adobe/Marketo-Measure-BI-Templates/blob/main/Tableau%20Template%20Release%20Notes.md)
 
 ### Legal Disclaimer
 
-[Legal Disclaimer](https://git.corp.adobe.com/sizer/BI-Templates/blob/main/Legal_Disclaimer.pdf)
+[Legal Disclaimer](https://github.com/adobe/Marketo-Measure-BI-Templates/blob/main/Legal_Disclaimer.pdf)
