@@ -5,8 +5,8 @@ These are BI reporting templates built to provide a data model and an out of the
 ### Documentation
 
 For more information on how to open these files and connect to your data warehouse, along with details on the data model and reports contained in them, please visit our published documentation.  
-- [Power BI Template Documentation](https://experienceleague.adobe.com/docs/bizible/using/bi-report-templates/marketo-measure-report-template-power-bi.html)
-- [Tableau Template Documentation](https://experienceleague.adobe.com/docs/bizible/using/bi-report-templates/marketo-measure-report-template-tableau.html)
+- [Power BI Template Documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/bi-report-templates/marketo-measure-report-template-power-bi.html)
+- [Tableau Template Documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/bi-report-templates/marketo-measure-report-template-tableau.html)
 
 ### Release Notes
 
